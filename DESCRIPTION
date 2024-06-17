@@ -37,7 +37,7 @@ VignetteBuilder: knitr
 Encoding: UTF-8
 biocViews: Infrastructure, DataImport
 NeedsCompilation: no
-Packaged: 2024-06-17 13:39:45 UTC; berthetcle
+Packaged: 2024-06-17 13:51:46 UTC; berthetcle
 Author: Tatiana Vargas [aut, cre],
   Jalal-Edine ZAWAM [aut],
   Frederic Breant [ctb],
